@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngx-custom-modal"
+    }
+  },
+  "defaultProject": "ngx-custom-modal",
+  "cli": {
+    "analytics": "52bcdf7f-7272-4fa1-9f4b-d0097fb52fdf"
+  }
 }
