@@ -1,4 +1,4 @@
-export class DialogConfig<D> {
+export class DialogConfig<D = unknown> {
   data?: D;
   width?: string;
   height?: string;

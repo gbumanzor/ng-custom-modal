@@ -18,7 +18,7 @@ export class AppComponent {
       {
         data: 'I am a dynamic component inside a modal',
         height: '300px',
-        width: '200px',
+        width: '400px',
       }
     );
 
